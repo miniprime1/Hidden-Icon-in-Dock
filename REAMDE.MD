@@ -1,0 +1,1 @@
+<img src="https://github.com/miniprime1/Hidden-Icon-in-Dock/blob/master/example.gif?raw=true"/>
